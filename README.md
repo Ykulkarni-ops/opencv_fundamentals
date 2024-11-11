@@ -22,7 +22,10 @@ The details results of each segment of the repository are as follows:<br/>
         ![face detection](https://github.com/Ykulkarni-ops/opencv_fundamentals/blob/main/images/outputs/face_detection.jpg)<br/>
     5. Vehicle and pedestrian detection:<br/>
         ![Ped detection](https://github.com/Ykulkarni-ops/opencv_fundamentals/blob/main/images/outputs/vehicle%20detection.gif)<br/>
-    6. Motion and object tracking using Lucas kanade:<br/>  
+    6. Motion and object tracking using Lucas kanade:<br/> 
+        ![motion tracking](https://github.com/Ykulkarni-ops/opencv_fundamentals/blob/main/images/outputs/motion%20tracking.gif)<br/>
     7. Optical flow tracking: 
+        ![Optical flow](https://github.com/Ykulkarni-ops/opencv_fundamentals/blob/main/images/outputs/optical%20flow.gif)<br/>
+    
     
     
