@@ -13,8 +13,13 @@ This repository showcases all the basic operations performed using OpenCV such a
 The details results of each segment of the repository are as follows:<br/> 
     1. OpenCV Operations:<br/> 
     2. Image segmentation:<br/> 
-        ![Alt text](https://github.com/Ykulkarni-ops/opencv_fundamentals/blob/main/images/outputs/blob_output.jpg) 
-    3. Image analysis and transformations:<br/>  
+        ![Alt text](https://github.com/Ykulkarni-ops/opencv_fundamentals/blob/main/images/outputs/blob_output.jpg)<br/>
+        ![Alt text](https://github.com/Ykulkarni-ops/opencv_fundamentals/blob/main/images/outputs/hough_lines.jpg)<br/>
+        
+    3. Image analysis and transformations:<br/>
+        ![Alt text](https://github.com/Ykulkarni-ops/opencv_fundamentals/blob/main/images/outputs/top_down.jpg)<br/>
+        ![Alt text](https://github.com/Ykulkarni-ops/opencv_fundamentals/blob/main/images/outputs/water_shed.jpg)<br/>
+        
     4. Face and Eye recognition:<br/> 
     5. Vehicle and pedestrian detection:<br/> 
     6. Motion and object tracking using Lucas kanade:<br/>  
