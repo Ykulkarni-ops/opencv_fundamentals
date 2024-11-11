@@ -20,7 +20,8 @@ The details results of each segment of the repository are as follows:<br/>
         ![water shed algo](https://github.com/Ykulkarni-ops/opencv_fundamentals/blob/main/images/outputs/water_shed.jpg)<br/>
     4. Face and Eye recognition:<br/> 
         ![face detection](https://github.com/Ykulkarni-ops/opencv_fundamentals/blob/main/images/outputs/face_detection.jpg)<br/>
-    5. Vehicle and pedestrian detection:<br/> 
+    5. Vehicle and pedestrian detection:<br/>
+        ![Ped detection](https://github.com/Ykulkarni-ops/opencv_fundamentals/blob/main/images/outputs/vehicle%20detection.gif)<br/>
     6. Motion and object tracking using Lucas kanade:<br/>  
     7. Optical flow tracking: 
     
