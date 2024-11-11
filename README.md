@@ -9,6 +9,8 @@ Author: Yash Kulkarni
 -------------
 ###This repository showcases all the basic operations performed using OpenCV such as image segmentation, image transformation and analysis, facial recognition , object tracking.
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/weiji14/deepbedmap/]
+
 -------------
 The details results of each segment of the repository are as follows:<br/> 
     **1. OpenCV Operations:**<br/> 
