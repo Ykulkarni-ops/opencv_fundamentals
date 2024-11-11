@@ -24,7 +24,7 @@ The details results of each segment of the repository are as follows:<br/>
         ![Ped detection](https://github.com/Ykulkarni-ops/opencv_fundamentals/blob/main/images/outputs/vehicle%20detection.gif)<br/>
     6. Motion and object tracking using Lucas kanade:<br/> 
         ![motion tracking](https://github.com/Ykulkarni-ops/opencv_fundamentals/blob/main/images/outputs/motion%20tracking.gif)<br/>
-    7. Optical flow tracking: 
+    7. Optical flow tracking:<br/>
         ![Optical flow](https://github.com/Ykulkarni-ops/opencv_fundamentals/blob/main/images/outputs/optical%20flow.gif)<br/>
     
     
